@@ -514,8 +514,9 @@ CGTN纪录,http://59.174.160.155:6789/rtp/239.69.1.233:11040
 蔡甸综合,http://27.18.138.156:8808/rtp/239.69.1.245:11112
 蔡甸综合,http://27.19.202.241:2701/rtp/239.69.1.245:11112
 蔡甸综合,http://59.175.154.236:4001/rtp/239.69.1.245:11112
-蔡甸综合,http://59.174.161.233:4022/rtp/239.69.1.245:11112咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
+蔡甸综合,http://59.174.161.233:4022/rtp/239.69.1.245:11112
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fea9ed9b2105c8e66da382be47a0acae
+咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
 赤壁电视台,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a9f4eb22b55c750628c090d53a445bbc
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9ca56ee7b0e7b23d7ccb3f6649b2686a
@@ -929,3 +930,4 @@ CHC影迷电影,http://59.174.160.155:6789/rtp/239.69.1.241:11088
 第34集,https://c1.ddbbffcdn.com/video/juemi543/第34集/index.m3u8
 第35集,https://c1.ddbbffcdn.com/video/juemi543/第35集/index.m3u8
 第36集,https://c1.ddbbffcdn.com/video/juemi543/第36集/index.m3u8
+
